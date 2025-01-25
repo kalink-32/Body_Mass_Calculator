@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Body_Mass_Calculator</string>
+    <string name="title">BMI calculator</string>
+    <string name="age">age</string>
+    <string name="age_input">Enter your age</string>
+    <string name="height">height</string>
+    <string name="height_input">Enter your height</string>
+    <string name="weight">weight</string>
+    <string name="weight_input">Enter your weight</string>
+    <string name="male">male</string>
+    <string name="female">female</string>
+    <string name="calculate">calculate button</string>
+    <string name="bmi">bmi</string>
+    <string name="bmi_result">bmi result in number</string>
+    <string name="result">result</string>
+    <string name="result_result">bmi result</string>
+
+
+</resources>
